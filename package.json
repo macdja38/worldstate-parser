@@ -1,0 +1,29 @@
+{
+  "name": "worldstate-parser",
+  "version": "1.0.0",
+  "description": "Parser for the warframe worldstate that will keep an updated copy in a reThinkDB database",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macdja38/worldstate-parser.git"
+  },
+  "keywords": [
+    "warframe",
+    "worldstate",
+    "parser"
+  ],
+  "author": "macdja38",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/macdja38/worldstate-parser/issues"
+  },
+  "homepage": "https://github.com/macdja38/worldstate-parser#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "request": "^2.74.0",
+    "rethinkdb": "^2.3.2"
+  }
+}

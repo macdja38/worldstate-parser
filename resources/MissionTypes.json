@@ -1,0 +1,17 @@
+{
+  "MT_EXCAVATE": "Excavation",
+  "MT_SABOTAGE": "Sabotage",
+  "MT_MOBILE_DEFENSE": "Mobile Defense",
+  "MT_ASSASSINATION": "Assassination",
+  "MT_EXTERMINATION": "Extermination",
+  "MT_HIVE": "Hive",
+  "MT_DEFENSE": "Defense",
+  "MT_TERRITORY": "Interception",
+  "MT_ARENA": "Rathuum",
+  "MT_PVP": "Conclave",
+  "MT_RESCUE": "Rescue",
+  "MT_INTEL": "Spy",
+  "MT_SURVIVAL": "Survival",
+  "MT_CAPTURE": "Capture",
+  "MT_SECTOR": "Dark Sector"
+}

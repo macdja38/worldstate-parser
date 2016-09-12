@@ -1,0 +1,9 @@
+{
+  "platforms": ["PC", "PS4", "XB1"],
+  "pollingRateMS": 240000,
+  "platformURL": {
+    "PC": {"name": "PC", "url": "http://content.warframe.com/dynamic/worldState.php"},
+    "PS4": {"name": "PS4", "url": "http://content.ps4.warframe.com/dynamic/worldState.php"},
+    "XB1": {"name": "XB1", "url": "http://content.xb1.warframe.com/dynamic/worldState.php"}
+  }
+}

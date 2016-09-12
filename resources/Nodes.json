@@ -1,0 +1,2038 @@
+{
+  "\"\"": {
+  },
+  "\"MADURAI Expanse\"": {
+  },
+  "\"NARAMON FIELDS\"": {
+  },
+  "\"NARAMON Volatiles\"": {
+  },
+  "\"VAZARIN Core\"": {
+  },
+  "\"ZENURIK Sphere\"": {
+  },
+  "/Lotus/Language/Game/Ceres": {
+  },
+  "/Lotus/Language/Game/Derelict": {
+  },
+  "/Lotus/Language/Game/Dojo": {
+  },
+  "/Lotus/Language/Game/Earth": {
+  },
+  "/Lotus/Language/Game/Eris": {
+  },
+  "/Lotus/Language/Game/Europa": {
+  },
+  "/Lotus/Language/Game/Jupiter": {
+  },
+  "/Lotus/Language/Game/Mars": {
+  },
+  "/Lotus/Language/Game/Mercury": {
+  },
+  "/Lotus/Language/Game/Neptune": {
+  },
+  "/Lotus/Language/Game/Phobos": {
+  },
+  "/Lotus/Language/Game/Pluto": {
+  },
+  "/Lotus/Language/Game/Saturn": {
+  },
+  "/Lotus/Language/Game/Sedna": {
+  },
+  "/Lotus/Language/Game/Uranus": {
+  },
+  "/Lotus/Language/Game/Venus": {
+  },
+  "/Lotus/Language/Game/Void": {
+  },
+  "ClanNode0": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Romula",
+    "missionTag": "ClanVenusDefense",
+    "missionType": "MT_DEFENSE"
+  },
+  "ClanNode1": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Malva",
+    "missionTag": "ClanVenusSurvival",
+    "missionType": "MT_EXCAVATE"
+  },
+  "ClanNode10": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Memphis",
+    "missionTag": "ClanPhobosDefense",
+    "missionType": "MT_DEFENSE"
+  },
+  "ClanNode11": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Zeugma",
+    "missionTag": "ClanPhobosSurvival",
+    "missionType": "MT_EXCAVATE"
+  },
+  "ClanNode12": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Caracol",
+    "missionTag": "ClanSaturnDefense",
+    "missionType": "MT_DEFENSE"
+  },
+  "ClanNode13": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Piscinas",
+    "missionTag": "ClanSaturnSurvival",
+    "missionType": "MT_SURVIVAL"
+  },
+  "ClanNode14": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Amarna",
+    "missionTag": "ClanSednaSurvival",
+    "missionType": "MT_SURVIVAL"
+  },
+  "ClanNode15": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Sangeru",
+    "missionTag": "ClanSednaDefense",
+    "missionType": "MT_DEFENSE"
+  },
+  "ClanNode16": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Ur",
+    "missionTag": "ClanUranusDefense",
+    "missionType": "MT_DEFENSE"
+  },
+  "ClanNode17": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Assur",
+    "missionTag": "ClanUranusSurvival",
+    "missionType": "MT_SURVIVAL"
+  },
+  "ClanNode18": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Akkad",
+    "missionTag": "ClanErisDefense",
+    "missionType": "MT_DEFENSE"
+  },
+  "ClanNode19": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Zabala",
+    "missionTag": "ClanErisSurvival",
+    "missionType": "MT_SURVIVAL"
+  },
+  "ClanNode2": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Coba",
+    "missionTag": "ClanEarthDefense",
+    "missionType": "MT_DEFENSE"
+  },
+  "ClanNode20": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Yursa",
+    "missionTag": "ClanNeptuneDefense",
+    "missionType": "MT_DEFENSE"
+  },
+  "ClanNode21": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Kelashin",
+    "missionTag": "ClanNeptuneSurvival",
+    "missionType": "MT_SURVIVAL"
+  },
+  "ClanNode22": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Seimeni",
+    "missionTag": "ClanCeresDefense",
+    "missionType": "MT_DEFENSE"
+  },
+  "ClanNode23": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Gabii",
+    "missionTag": "ClanCeresSurvival",
+    "missionType": "MT_SURVIVAL"
+  },
+  "ClanNode24": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Sechura",
+    "missionTag": "ClanPlutoDefense",
+    "missionType": "MT_DEFENSE"
+  },
+  "ClanNode25": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Hieracon",
+    "missionTag": "ClanPlutoSurvival",
+    "missionType": "MT_EXCAVATE"
+  },
+  "ClanNode3": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Tikal",
+    "missionTag": "ClanEarthSurvival",
+    "missionType": "MT_EXCAVATE"
+  },
+  "ClanNode4": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Sinai",
+    "missionTag": "ClanJupiterDefense",
+    "missionType": "MT_DEFENSE"
+  },
+  "ClanNode5": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Cameria",
+    "missionTag": "ClanJupiterSurvival",
+    "missionType": "MT_SURVIVAL"
+  },
+  "ClanNode6": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Larzac",
+    "missionTag": "ClanEuropaDefense",
+    "missionType": "MT_DEFENSE"
+  },
+  "ClanNode7": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Cholistan",
+    "missionTag": "ClanEuropaSurvival",
+    "missionType": "MT_EXCAVATE"
+  },
+  "ClanNode8": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Kadesh",
+    "missionTag": "ClanMarsDefense",
+    "missionType": "MT_DEFENSE"
+  },
+  "ClanNode9": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Wahiba",
+    "missionTag": "ClanMarsSurvival",
+    "missionType": "MT_SURVIVAL"
+  },
+  "Cytherean": {
+  },
+  "EarthHUB": {
+    "faction": "FC_OROKIN",
+    "locTag": "/Lotus/Language/Locations/RelayStationEarth",
+    "missionTag": "EarthHUB",
+    "missionType": "MT_PVP"
+  },
+  "ErisHUB": {
+    "faction": "FC_OROKIN",
+    "locTag": "/Lotus/Language/Locations/RelayStationEris",
+    "missionTag": "ErisHUB",
+    "missionType": "MT_PVP"
+  },
+  "EuropaHUB": {
+    "faction": "FC_OROKIN",
+    "locTag": "/Lotus/Language/Locations/RelayStationEuropa",
+    "missionTag": "EuropaHUB",
+    "missionType": "MT_PVP"
+  },
+  "EventNode0": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Balor",
+    "missionTag": "GrnSabotageEvent",
+    "missionType": "MT_SABOTAGE"
+  },
+  "EventNode1": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Tethra",
+    "missionTag": "VenusFomorian",
+    "missionType": "MT_SABOTAGE"
+  },
+  "EventNode10": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Lugh",
+    "missionTag": "InfSabotageEvent",
+    "missionType": "MT_COUNTER_INTEL"
+  },
+  "EventNode11": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Nemed",
+    "missionTag": "GrnSabotageEvent",
+    "missionType": "MT_INTEL"
+  },
+  "EventNode12": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/G1Quests/ExcavationEventName",
+    "missionTag": "CorSabotageEvent",
+    "missionType": "MT_EXCAVATE"
+  },
+  "EventNode13": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/G1Quests/SkateTacAlertTitle",
+    "missionTag": "EventNode13",
+    "missionType": "MT_SABOTAGE"
+  },
+  "EventNode14": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/G1Quests/PortalEventName",
+    "missionTag": "EventNode14",
+    "missionType": "MT_SABOTAGE"
+  },
+  "EventNode15": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/G1Quests/ExcavationEventName",
+    "missionTag": "CorSabotageEvent",
+    "missionType": "MT_CAPTURE"
+  },
+  "EventNode16": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/G1Quests/ExcavationEventName",
+    "missionTag": "CorSabotageEvent",
+    "missionType": "MT_CAPTURE"
+  },
+  "EventNode17": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/G1Quests/ExcavationEventName",
+    "missionTag": "CorSabotageEvent",
+    "missionType": "MT_CAPTURE"
+  },
+  "EventNode18": {
+    "faction": "FC_CORPUS",
+    "locTag": "Blackout",
+    "missionTag": "\"\"",
+    "missionType": "MT_DEFENSE"
+  },
+  "EventNode19": {
+    "faction": "FC_CORPUS",
+    "locTag": "Blackout",
+    "missionTag": "\"\"",
+    "missionType": "MT_DEFENSE"
+  },
+  "EventNode2": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/G1Quests/PortalEventName",
+    "missionTag": "EventNode2",
+    "missionType": "MT_SABOTAGE"
+  },
+  "EventNode20": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/SealabGeneric",
+    "missionTag": "EventNode20",
+    "missionType": "MT_SABOTAGE"
+  },
+  "EventNode21": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/SealabGeneric",
+    "missionTag": "EventNode21",
+    "missionType": "MT_SABOTAGE"
+  },
+  "EventNode22": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/SealabGeneric",
+    "missionTag": "EventNode22",
+    "missionType": "MT_SABOTAGE"
+  },
+  "EventNode23": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/SealabGeneric",
+    "missionTag": "EventNode23",
+    "missionType": "MT_SABOTAGE"
+  },
+  "EventNode3": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Elatha",
+    "missionTag": "\"\"",
+    "missionType": "MT_DEFENSE"
+  },
+  "EventNode4": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Bres",
+    "missionTag": "InfSabotageEvent",
+    "missionType": "MT_SABOTAGE"
+  },
+  "EventNode5": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Birog",
+    "missionTag": "GrnSabotageEvent",
+    "missionType": "MT_DEFENSE"
+  },
+  "EventNode6": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/SealabGeneric",
+    "missionTag": "EventNode6",
+    "missionType": "MT_SABOTAGE"
+  },
+  "EventNode7": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Buarainech",
+    "missionTag": "JupiterFomorian",
+    "missionType": "MT_SABOTAGE"
+  },
+  "EventNode8": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Corb",
+    "missionTag": "CorSabotageEvent",
+    "missionType": "MT_CAPTURE"
+  },
+  "EventNode9": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/G1Quests/PortalEventName",
+    "missionTag": "EventNode9",
+    "missionType": "MT_SABOTAGE"
+  },
+  "MercuryHUB": {
+    "faction": "FC_OROKIN",
+    "locTag": "/Lotus/Language/Locations/RelayStationMercury",
+    "missionTag": "MercuryHUB",
+    "missionType": "MT_PVP"
+  },
+  "PlutoHUB": {
+    "faction": "FC_OROKIN",
+    "locTag": "/Lotus/Language/Locations/RelayStationPluto",
+    "missionTag": "PlutoHUB",
+    "missionType": "MT_PVP"
+  },
+  "PvpNode0": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/ConclaveCTF",
+    "missionTag": "SaturnConclave",
+    "missionType": "MT_PVP"
+  },
+  "PvpNode1": {
+    "faction": "FC_OROKIN",
+    "locTag": "/Lotus/Language/Locations/Conclave",
+    "missionTag": "VenusConclave",
+    "missionType": "MT_PVP"
+  },
+  "PvpNode10": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/ConclaveDM",
+    "missionTag": "SaturnConclave",
+    "missionType": "MT_PVP"
+  },
+  "PvpNode11": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/ConclaveSB",
+    "missionTag": "SaturnConclave",
+    "missionType": "MT_PVP"
+  },
+  "PvpNode2": {
+    "faction": "FC_OROKIN",
+    "locTag": "/Lotus/Language/Locations/Conclave",
+    "missionTag": "PhobosConclave",
+    "missionType": "MT_PVP"
+  },
+  "PvpNode3": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/ConclaveCTF",
+    "missionTag": "NeptuneConclave",
+    "missionType": "MT_PVP"
+  },
+  "PvpNode4": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Conclave",
+    "missionTag": "ErisConclave",
+    "missionType": "MT_PVP"
+  },
+  "PvpNode5": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Conclave",
+    "missionTag": "EuropaConclave",
+    "missionType": "MT_PVP"
+  },
+  "PvpNode6": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Conclave",
+    "missionTag": "PlutoConclave",
+    "missionType": "MT_PVP"
+  },
+  "PvpNode7": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Conclave",
+    "missionTag": "SednaConclave",
+    "missionType": "MT_PVP"
+  },
+  "PvpNode8": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Conclave",
+    "missionTag": "JupiterConclave",
+    "missionType": "MT_PVP"
+  },
+  "PvpNode9": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/ConclaveTDM",
+    "missionTag": "SaturnConclave",
+    "missionType": "MT_PVP"
+  },
+  "Romula": {
+  },
+  "SaturnHUB": {
+    "faction": "FC_OROKIN",
+    "locTag": "/Lotus/Language/Locations/RelayStationSaturn",
+    "missionTag": "SaturnHUB",
+    "missionType": "MT_PVP"
+  },
+  "SettlementNode1": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Roche",
+    "missionTag": "SettlementExterminate",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SettlementNode10": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Kepler",
+    "missionTag": "SettlementDefense",
+    "missionType": "MT_DEFENSE"
+  },
+  "SettlementNode11": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Gulliver",
+    "missionTag": "SettlementRescue",
+    "missionType": "MT_RESCUE"
+  },
+  "SettlementNode12": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Monolith",
+    "missionTag": "SettlementRescue",
+    "missionType": "MT_RESCUE"
+  },
+  "SettlementNode13": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/DArrest",
+    "missionTag": "SettlementSabotage",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SettlementNode14": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Shklovsky",
+    "missionTag": "SettlementSpy",
+    "missionType": "MT_INTEL"
+  },
+  "SettlementNode15": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Sharpless",
+    "missionTag": "SettlementMobileDefense",
+    "missionType": "MT_MOBILE_DEFENSE"
+  },
+  "SettlementNode16": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Wendell",
+    "missionTag": "SurvivalSettlementGrineer",
+    "missionType": "MT_EXCAVATE"
+  },
+  "SettlementNode17": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Flimnap",
+    "missionTag": "SettlementDeception",
+    "missionType": "MT_SURVIVAL"
+  },
+  "SettlementNode18": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Opik",
+    "missionTag": "SettlementInterception",
+    "missionType": "MT_TERRITORY"
+  },
+  "SettlementNode19": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Todd",
+    "missionTag": "SettlementCapture",
+    "missionType": "MT_CAPTURE"
+  },
+  "SettlementNode2": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Skyresh",
+    "missionTag": "SettlementDeception",
+    "missionType": "MT_COUNTER_INTEL"
+  },
+  "SettlementNode20": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Iliad",
+    "missionTag": "SettlementAssassinate",
+    "missionType": "MT_ASSASSINATION"
+  },
+  "SettlementNode3": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Stickney",
+    "missionTag": "SurvivalSettlementGrineer",
+    "missionType": "MT_EXCAVATE"
+  },
+  "SettlementNode4": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Drunlo",
+    "missionTag": "SettlementDefense",
+    "missionType": "MT_DEFENSE"
+  },
+  "SettlementNode5": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Grildrig",
+    "missionTag": "SettlementRescue",
+    "missionType": "MT_INTEL"
+  },
+  "SettlementNode6": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Limtoc",
+    "missionTag": "SettlementCapture",
+    "missionType": "MT_CAPTURE"
+  },
+  "SettlementNode7": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Hall",
+    "missionTag": "SettlementMobileDefense",
+    "missionType": "MT_MOBILE_DEFENSE"
+  },
+  "SettlementNode8": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Reldresal",
+    "missionTag": "SettlementSabotage",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SettlementNode9": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Clustril",
+    "missionTag": "SettlementExterminate",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode1": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Galatea",
+    "missionTag": "Galatea",
+    "missionType": "MT_CAPTURE"
+  },
+  "SolNode10": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Thebe",
+    "missionTag": "Thebe",
+    "missionType": "MT_COUNTER_INTEL"
+  },
+  "SolNode100": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Elara",
+    "missionTag": "Elara",
+    "missionType": "MT_SURVIVAL"
+  },
+  "SolNode101": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Kiliken",
+    "missionTag": "Kiliken",
+    "missionType": "MT_DEFENSE"
+  },
+  "SolNode102": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Oceanum",
+    "missionTag": "Oceanum",
+    "missionType": "MT_INTEL"
+  },
+  "SolNode103": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Terminus",
+    "missionTag": "Terminus",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode104": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Fossa",
+    "missionTag": "Fossa",
+    "missionType": "MT_ASSASSINATION"
+  },
+  "SolNode105": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Titania",
+    "missionTag": "Titania",
+    "missionType": "MT_ASSASSINATION"
+  },
+  "SolNode106": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Alator",
+    "missionTag": "Alator",
+    "missionType": "MT_CAPTURE"
+  },
+  "SolNode107": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Venera",
+    "missionTag": "Venera",
+    "missionType": "MT_DEFENSE"
+  },
+  "SolNode108": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Tolstoj",
+    "missionTag": "Tolstoj",
+    "missionType": "MT_ASSASSINATION"
+  },
+  "SolNode109": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Linea",
+    "missionTag": "Linea",
+    "missionType": "MT_RESCUE"
+  },
+  "SolNode11": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Tharsis",
+    "missionTag": "Tharsis",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode110": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Hyperion",
+    "missionTag": "Hyperion",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode111": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Juliet",
+    "missionTag": "Juliet",
+    "missionType": "MT_COUNTER_INTEL"
+  },
+  "SolNode112": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Setebos",
+    "missionTag": "Setebos",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode113": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Ares",
+    "missionTag": "Ares",
+    "missionType": "MT_CAPTURE"
+  },
+  "SolNode114": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Puck",
+    "missionTag": "Puck",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode115": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Quirinus",
+    "missionTag": "Quirinus",
+    "missionType": "MT_CAPTURE"
+  },
+  "SolNode116": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Mab",
+    "missionTag": "Mab",
+    "missionType": "MT_RESCUE"
+  },
+  "SolNode117": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Naiad",
+    "missionTag": "Naiad",
+    "missionType": "MT_COUNTER_INTEL"
+  },
+  "SolNode118": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Laomedeia",
+    "missionTag": "Laomedeia",
+    "missionType": "MT_INTEL"
+  },
+  "SolNode119": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Caloris",
+    "missionTag": "Caloris",
+    "missionType": "MT_CAPTURE"
+  },
+  "SolNode12": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Elion",
+    "missionTag": "Elion",
+    "missionType": "MT_MOBILE_DEFENSE"
+  },
+  "SolNode120": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Halimede",
+    "missionTag": "Halimede",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode121": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Carpo",
+    "missionTag": "Carpo",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode122": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Stephano",
+    "missionTag": "Stephano",
+    "missionType": "MT_TERRITORY"
+  },
+  "SolNode123": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/VPrime",
+    "missionTag": "VPrime",
+    "missionType": "MT_RESCUE"
+  },
+  "SolNode124": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Trinculo",
+    "missionTag": "Trinculo",
+    "missionType": "MT_CAPTURE"
+  },
+  "SolNode125": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Io",
+    "missionTag": "Io",
+    "missionType": "MT_DEFENSE"
+  },
+  "SolNode126": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Metis",
+    "missionTag": "Metis",
+    "missionType": "MT_RESCUE"
+  },
+  "SolNode127": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Psamathe",
+    "missionTag": "Psamathe",
+    "missionType": "MT_ASSASSINATION"
+  },
+  "SolNode128": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/EGate",
+    "missionTag": "EGate",
+    "missionType": "MT_EXCAVATE"
+  },
+  "SolNode13": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Bianca",
+    "missionTag": "Bianca",
+    "missionType": "MT_DEFENSE"
+  },
+  "SolNode130": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Lares",
+    "missionTag": "Lares",
+    "missionType": "MT_DEFENSE"
+  },
+  "SolNode131": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Pallas",
+    "missionTag": "Pallas",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode132": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Bode",
+    "missionTag": "Bode",
+    "missionType": "MT_CAPTURE"
+  },
+  "SolNode133": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Vedic",
+    "missionTag": "Vedic",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode134": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Varro",
+    "missionTag": "Varro",
+    "missionType": "MT_DEFENSE"
+  },
+  "SolNode135": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Thon",
+    "missionTag": "Thon",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode136": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Olla",
+    "missionTag": "Olla",
+    "missionType": "MT_RESCUE"
+  },
+  "SolNode137": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Nuovo",
+    "missionTag": "Nuovo",
+    "missionType": "MT_SURVIVAL"
+  },
+  "SolNode138": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Ludi",
+    "missionTag": "Ludi",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode139": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Lex",
+    "missionTag": "Lex",
+    "missionType": "MT_INTEL"
+  },
+  "SolNode14": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Ultor",
+    "missionTag": "Ultor",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode140": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Kiste",
+    "missionTag": "Kiste",
+    "missionType": "MT_MOBILE_DEFENSE"
+  },
+  "SolNode141": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Ker",
+    "missionTag": "Ker",
+    "missionType": "MT_COUNTER_INTEL"
+  },
+  "SolNode142": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Hapke",
+    "missionTag": "Hapke",
+    "missionType": "MT_INTEL"
+  },
+  "SolNode143": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Gefion",
+    "missionTag": "Gefion",
+    "missionType": "MT_RETRIEVAL"
+  },
+  "SolNode144": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Exta",
+    "missionTag": "Exta",
+    "missionType": "MT_ASSASSINATION"
+  },
+  "SolNode145": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Egeria",
+    "missionTag": "Egeria",
+    "missionType": "MT_SURVIVAL"
+  },
+  "SolNode146": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Draco",
+    "missionTag": "Draco",
+    "missionType": "MT_TERRITORY"
+  },
+  "SolNode147": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Cinxia",
+    "missionTag": "Cinxia",
+    "missionType": "MT_RESCUE"
+  },
+  "SolNode148": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Cerium",
+    "missionTag": "Cerium",
+    "missionType": "MT_RETRIEVAL"
+  },
+  "SolNode149": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Casta",
+    "missionTag": "Casta",
+    "missionType": "MT_DEFENSE"
+  },
+  "SolNode15": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Pacific",
+    "missionTag": "Pacific",
+    "missionType": "MT_CAPTURE"
+  },
+  "SolNode150": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Albedo",
+    "missionTag": "Albedo",
+    "missionType": "MT_COUNTER_INTEL"
+  },
+  "SolNode151": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Acanth",
+    "missionTag": "Acanth",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode152": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Ascar",
+    "missionTag": "Ascar",
+    "missionType": "MT_TERRITORY"
+  },
+  "SolNode153": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Brugia",
+    "missionTag": "Brugia",
+    "missionType": "MT_RESCUE"
+  },
+  "SolNode154": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Candiru",
+    "missionTag": "Candiru",
+    "missionType": "MT_HIVE"
+  },
+  "SolNode155": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Cosis",
+    "missionTag": "Cosis",
+    "missionType": "MT_CAPTURE"
+  },
+  "SolNode156": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Cyath",
+    "missionTag": "Cyath",
+    "missionType": "MT_INTEL"
+  },
+  "SolNode157": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Giardia",
+    "missionTag": "Giardia",
+    "missionType": "MT_MOBILE_DEFENSE"
+  },
+  "SolNode158": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Gnathos",
+    "missionTag": "Gnathos",
+    "missionType": "MT_INTEL"
+  },
+  "SolNode159": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Lepis",
+    "missionTag": "Lepis",
+    "missionType": "MT_HIVE"
+  },
+  "SolNode16": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Augustus",
+    "missionTag": "Augustus",
+    "missionType": "MT_TERRITORY"
+  },
+  "SolNode160": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Histo",
+    "missionTag": "Histo",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode161": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Hymeno",
+    "missionTag": "Hymeno",
+    "missionType": "MT_SURVIVAL"
+  },
+  "SolNode162": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Isos",
+    "missionTag": "Isos",
+    "missionType": "MT_CAPTURE"
+  },
+  "SolNode163": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Ixodes",
+    "missionTag": "Ixodes",
+    "missionType": "MT_DEFENSE"
+  },
+  "SolNode164": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Kala-azar",
+    "missionTag": "KalaAzar",
+    "missionType": "MT_DEFENSE"
+  },
+  "SolNode165": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Sporid",
+    "missionTag": "Sporid",
+    "missionType": "MT_TERRITORY"
+  },
+  "SolNode166": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Nimus",
+    "missionTag": "Nimus",
+    "missionType": "MT_SURVIVAL"
+  },
+  "SolNode167": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Oestrus",
+    "missionTag": "Oestrus",
+    "missionType": "MT_MOBILE_DEFENSE"
+  },
+  "SolNode168": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Phalan",
+    "missionTag": "Phalan",
+    "missionType": "MT_TERRITORY"
+  },
+  "SolNode169": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Psoro",
+    "missionTag": "Psoro",
+    "missionType": "MT_HIVE"
+  },
+  "SolNode17": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Proteus",
+    "missionTag": "Proteus",
+    "missionType": "MT_DEFENSE"
+  },
+  "SolNode170": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Ranova",
+    "missionTag": "Ranova",
+    "missionType": "MT_RESCUE"
+  },
+  "SolNode171": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Saxis",
+    "missionTag": "Saxis",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode172": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Xini",
+    "missionTag": "Xini",
+    "missionType": "MT_TERRITORY"
+  },
+  "SolNode173": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Solium",
+    "missionTag": "Solium",
+    "missionType": "MT_MOBILE_DEFENSE"
+  },
+  "SolNode174": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Sparga",
+    "missionTag": "Sparga",
+    "missionType": "MT_RESCUE"
+  },
+  "SolNode175": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Naeglar",
+    "missionTag": "Naeglar",
+    "missionType": "MT_HIVE"
+  },
+  "SolNode176": {
+    "faction": "FC_INFESTATION",
+    "locTag": "/Lotus/Language/Locations/Viver",
+    "missionTag": "Viver",
+    "missionType": "MT_HIVE"
+  },
+  "SolNode177": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Kappa",
+    "missionTag": "Kappa",
+    "missionType": "MT_MOBILE_DEFENSE"
+  },
+  "SolNode178": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Hyosube",
+    "missionTag": "Hyosube",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode179": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Jengu",
+    "missionTag": "Jengu",
+    "missionType": "MT_RESCUE"
+  },
+  "SolNode18": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Rhea",
+    "missionTag": "Rhea",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode180": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Undine",
+    "missionTag": "Undine",
+    "missionType": "MT_ARENA"
+  },
+  "SolNode181": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Adaro",
+    "missionTag": "Adaro",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode182": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Camenae",
+    "missionTag": "Camenae",
+    "missionType": "MT_DEFENSE"
+  },
+  "SolNode183": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Vodyanoi",
+    "missionTag": "Vodyanoi",
+    "missionType": "MT_ARENA"
+  },
+  "SolNode184": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Rusalka",
+    "missionTag": "Rusalka",
+    "missionType": "MT_COUNTER_INTEL"
+  },
+  "SolNode185": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Berehynia",
+    "missionTag": "Berehynia",
+    "missionType": "MT_TERRITORY"
+  },
+  "SolNode186": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Phithale",
+    "missionTag": "Phithale",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode187": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Selkie",
+    "missionTag": "Selkie",
+    "missionType": "MT_SURVIVAL"
+  },
+  "SolNode188": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Kelpie",
+    "missionTag": "Kelpie",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode189": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Naga",
+    "missionTag": "Naga",
+    "missionType": "MT_RESCUE"
+  },
+  "SolNode19": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Enceladus",
+    "missionTag": "Enceladus",
+    "missionType": "MT_CAPTURE"
+  },
+  "SolNode190": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Nakki",
+    "missionTag": "Nakki",
+    "missionType": "MT_ARENA"
+  },
+  "SolNode191": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Marid",
+    "missionTag": "Marid",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode192": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Tikoloshe",
+    "missionTag": "Tikoloshe",
+    "missionType": "MT_INTEL"
+  },
+  "SolNode193": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Merrow",
+    "missionTag": "Merrow",
+    "missionType": "MT_ASSASSINATION"
+  },
+  "SolNode194": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Ponaturi",
+    "missionTag": "Ponaturi",
+    "missionType": "MT_COUNTER_INTEL"
+  },
+  "SolNode195": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Hydron",
+    "missionTag": "Hydron",
+    "missionType": "MT_MOBILE_DEFENSE"
+  },
+  "SolNode196": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Charybdis",
+    "missionTag": "Charybdis",
+    "missionType": "MT_COUNTER_INTEL"
+  },
+  "SolNode197": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Graeae",
+    "missionTag": "Graeae",
+    "missionType": "MT_MOBILE_DEFENSE"
+  },
+  "SolNode198": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Scylla",
+    "missionTag": "Scylla",
+    "missionType": "MT_INTEL"
+  },
+  "SolNode199": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Yam",
+    "missionTag": "Yam",
+    "missionType": "MT_ARENA"
+  },
+  "SolNode2": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Aphrodite",
+    "missionTag": "Aphrodite",
+    "missionType": "MT_MOBILE_DEFENSE"
+  },
+  "SolNode20": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Telesto",
+    "missionTag": "Telesto",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode200": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Veles",
+    "missionTag": "Veles",
+    "missionType": "MT_SURVIVAL"
+  },
+  "SolNode201": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Tiamat",
+    "missionTag": "Tiamat",
+    "missionType": "MT_CAPTURE"
+  },
+  "SolNode202": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Yemaja",
+    "missionTag": "Yemaja",
+    "missionType": "MT_SURVIVAL"
+  },
+  "SolNode203": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Abaddon",
+    "missionTag": "Abaddon",
+    "missionType": "MT_CAPTURE"
+  },
+  "SolNode204": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Armaros",
+    "missionTag": "Armaros",
+    "missionType": "MT_INTEL"
+  },
+  "SolNode205": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Baal",
+    "missionTag": "Baal",
+    "missionType": "MT_MOBILE_DEFENSE"
+  },
+  "SolNode206": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Eligor",
+    "missionTag": "Eligor",
+    "missionType": "MT_DEFENSE"
+  },
+  "SolNode207": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Gamygyn",
+    "missionTag": "Gamygyn",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode208": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Lillith",
+    "missionTag": "Lillith",
+    "missionType": "MT_EXCAVATE"
+  },
+  "SolNode209": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Morax",
+    "missionTag": "Morax",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode21": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Narcissus",
+    "missionTag": "Narcissus",
+    "missionType": "MT_DEFENSE"
+  },
+  "SolNode210": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Naamah",
+    "missionTag": "Naamah",
+    "missionType": "MT_ASSASSINATION"
+  },
+  "SolNode211": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Ose",
+    "missionTag": "Ose",
+    "missionType": "MT_TERRITORY"
+  },
+  "SolNode212": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Paimon",
+    "missionTag": "Paimon",
+    "missionType": "MT_DEFENSE"
+  },
+  "SolNode213": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Shax",
+    "missionTag": "Shax",
+    "missionType": "MT_RESCUE"
+  },
+  "SolNode214": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Sorath",
+    "missionTag": "Sorath",
+    "missionType": "MT_RETRIEVAL"
+  },
+  "SolNode215": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Valac",
+    "missionTag": "Valac",
+    "missionType": "MT_INTEL"
+  },
+  "SolNode216": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Valefor",
+    "missionTag": "Valefor",
+    "missionType": "MT_EXCAVATE"
+  },
+  "SolNode217": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Orias",
+    "missionTag": "Orias",
+    "missionType": "MT_RESCUE"
+  },
+  "SolNode218": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Zagan",
+    "missionTag": "Zagan",
+    "missionType": "MT_SURVIVAL"
+  },
+  "SolNode219": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Beleth",
+    "missionTag": "Beleth",
+    "missionType": "MT_CAPTURE"
+  },
+  "SolNode22": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Tessera",
+    "missionTag": "Tessera",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode220": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Kokabiel",
+    "missionTag": "Kokabiel",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode221": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Neruda",
+    "missionTag": "Neruda",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode222": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Eminescu",
+    "missionTag": "Eminescu",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode223": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Boethius",
+    "missionTag": "Boethius",
+    "missionType": "MT_MOBILE_DEFENSE"
+  },
+  "SolNode224": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Odin",
+    "missionTag": "Odin",
+    "missionType": "MT_TERRITORY"
+  },
+  "SolNode225": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Suisei",
+    "missionTag": "Suisei",
+    "missionType": "MT_INTEL"
+  },
+  "SolNode226": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Pantheon",
+    "missionTag": "Pantheon",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode227": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Verdi",
+    "missionTag": "Verdi",
+    "missionType": "MT_COUNTER_INTEL"
+  },
+  "SolNode23": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Cytherean",
+    "missionTag": "Cytherean",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode24": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Oro",
+    "missionTag": "Oro",
+    "missionType": "MT_ASSASSINATION"
+  },
+  "SolNode25": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Callisto",
+    "missionTag": "Callisto",
+    "missionType": "MT_TERRITORY"
+  },
+  "SolNode26": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Lith",
+    "missionTag": "Lith",
+    "missionType": "MT_DEFENSE"
+  },
+  "SolNode27": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/EPrime",
+    "missionTag": "EPrime",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode28": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/MPrime",
+    "missionTag": "MPrime",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode29": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Oberon",
+    "missionTag": "Oberon",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode3": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Cordelia",
+    "missionTag": "Cordelia",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode30": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Olympus",
+    "missionTag": "Olympus",
+    "missionType": "MT_DEFENSE"
+  },
+  "SolNode300": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/MoonNode1",
+    "missionTag": "SolNode300",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode301": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/MoonNode2",
+    "missionTag": "SolNode301",
+    "missionType": "MT_MOBILE_DEFENSE"
+  },
+  "SolNode302": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/MoonNode3",
+    "missionTag": "SolNode302",
+    "missionType": "MT_SURVIVAL"
+  },
+  "SolNode304": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/MoonNode4",
+    "missionTag": "SolNode304",
+    "missionType": "MT_CAPTURE"
+  },
+  "SolNode305": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/MoonNode5",
+    "missionTag": "SolNode305",
+    "missionType": "MT_DEFENSE"
+  },
+  "SolNode306": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/MoonNode6",
+    "missionTag": "\"\"",
+    "missionType": "MT_INTEL"
+  },
+  "SolNode307": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/MoonNode7",
+    "missionTag": "EventNode24",
+    "missionType": "MT_RESCUE"
+  },
+  "SolNode31": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Anthe",
+    "missionTag": "Anthe",
+    "missionType": "MT_RESCUE"
+  },
+  "SolNode32": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Tethys",
+    "missionTag": "Tethys",
+    "missionType": "MT_ASSASSINATION"
+  },
+  "SolNode33": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Ariel",
+    "missionTag": "Ariel",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode34": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Sycorax",
+    "missionTag": "Sycorax",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode35": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Arcadia",
+    "missionTag": "Arcadia",
+    "missionType": "MT_SURVIVAL"
+  },
+  "SolNode36": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Martialis",
+    "missionTag": "Martialis",
+    "missionType": "MT_INTEL"
+  },
+  "SolNode37": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Pallene",
+    "missionTag": "Pallene",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode38": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Minthe",
+    "missionTag": "Minthe",
+    "missionType": "MT_MOBILE_DEFENSE"
+  },
+  "SolNode39": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Everest",
+    "missionTag": "Everest",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode4": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Acheron",
+    "missionTag": "Acheron",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode40": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Prospero",
+    "missionTag": "Prospero",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode41": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Arval",
+    "missionTag": "Arval",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode42": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Helene",
+    "missionTag": "Helene",
+    "missionType": "MT_DEFENSE"
+  },
+  "SolNode43": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Cerberus",
+    "missionTag": "Cerberus",
+    "missionType": "MT_TERRITORY"
+  },
+  "SolNode44": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Mimas",
+    "missionTag": "Mimas",
+    "missionType": "MT_SURVIVAL"
+  },
+  "SolNode45": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Ara",
+    "missionTag": "Ara",
+    "missionType": "MT_SURVIVAL"
+  },
+  "SolNode46": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Spear",
+    "missionTag": "Spear",
+    "missionType": "MT_RESCUE"
+  },
+  "SolNode47": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Janus",
+    "missionTag": "Janus",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode48": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Regna",
+    "missionTag": "Regna",
+    "missionType": "MT_RESCUE"
+  },
+  "SolNode49": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Larissa",
+    "missionTag": "Larissa",
+    "missionType": "MT_MOBILE_DEFENSE"
+  },
+  "SolNode5": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Perdita",
+    "missionTag": "Perdita",
+    "missionType": "MT_COUNTER_INTEL"
+  },
+  "SolNode50": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Numa",
+    "missionTag": "Numa",
+    "missionType": "MT_RESCUE"
+  },
+  "SolNode51": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Hades",
+    "missionTag": "Hades",
+    "missionType": "MT_ASSASSINATION"
+  },
+  "SolNode52": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Portia",
+    "missionTag": "Portia",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode53": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Themisto",
+    "missionTag": "Themisto",
+    "missionType": "MT_ASSASSINATION"
+  },
+  "SolNode54": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Silvanus",
+    "missionTag": "Silvanus",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode55": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Methone",
+    "missionTag": "Methone",
+    "missionType": "MT_COUNTER_INTEL"
+  },
+  "SolNode56": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Cypress",
+    "missionTag": "Cypress",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode57": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Sao",
+    "missionTag": "Sao",
+    "missionType": "MT_INTEL"
+  },
+  "SolNode58": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Hellas",
+    "missionTag": "Hellas",
+    "missionType": "MT_MOBILE_DEFENSE"
+  },
+  "SolNode59": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Eurasia",
+    "missionTag": "Eurasia",
+    "missionType": "MT_MOBILE_DEFENSE"
+  },
+  "SolNode6": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Despina",
+    "missionTag": "Despina",
+    "missionType": "MT_SURVIVAL"
+  },
+  "SolNode60": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Caliban",
+    "missionTag": "Caliban",
+    "missionType": "MT_RESCUE"
+  },
+  "SolNode61": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Ishtar",
+    "missionTag": "Ishtar",
+    "missionType": "MT_CAPTURE"
+  },
+  "SolNode62": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Neso",
+    "missionTag": "Neso",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode63": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Mantle",
+    "missionTag": "Mantle",
+    "missionType": "MT_CAPTURE"
+  },
+  "SolNode64": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Umbriel",
+    "missionTag": "Umbriel",
+    "missionType": "MT_INTEL"
+  },
+  "SolNode65": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Gradivus",
+    "missionTag": "Gradivus",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode66": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Unda",
+    "missionTag": "Unda",
+    "missionType": "MT_INTEL"
+  },
+  "SolNode67": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Dione",
+    "missionTag": "Dione",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode68": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Vallis",
+    "missionTag": "Vallis",
+    "missionType": "MT_RESCUE"
+  },
+  "SolNode69": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Ophelia",
+    "missionTag": "Ophelia",
+    "missionType": "MT_SURVIVAL"
+  },
+  "SolNode7": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Epimetheus",
+    "missionTag": "Epimetheus",
+    "missionType": "MT_COUNTER_INTEL"
+  },
+  "SolNode70": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Cassini",
+    "missionTag": "Cassini",
+    "missionType": "MT_SURVIVAL"
+  },
+  "SolNode71": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Vesper",
+    "missionTag": "Vesper",
+    "missionType": "MT_INTEL"
+  },
+  "SolNode72": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/OuterTerminus",
+    "missionTag": "OuterTerminus",
+    "missionType": "MT_DEFENSE"
+  },
+  "SolNode73": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Ananke",
+    "missionTag": "Ananke",
+    "missionType": "MT_CAPTURE"
+  },
+  "SolNode74": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Carme",
+    "missionTag": "Carme",
+    "missionType": "MT_MOBILE_DEFENSE"
+  },
+  "SolNode75": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Lua",
+    "missionTag": "Lua",
+    "missionType": "MT_EXCAVATE"
+  },
+  "SolNode76": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Hydra",
+    "missionTag": "Hydra",
+    "missionType": "MT_CAPTURE"
+  },
+  "SolNode77": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Cupid",
+    "missionTag": "Cupid",
+    "missionType": "MT_SURVIVAL"
+  },
+  "SolNode78": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Triton",
+    "missionTag": "Triton",
+    "missionType": "MT_EXCAVATE"
+  },
+  "SolNode79": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Cambria",
+    "missionTag": "Cambria",
+    "missionType": "MT_INTEL"
+  },
+  "SolNode8": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Nix",
+    "missionTag": "Nix",
+    "missionType": "MT_COUNTER_INTEL"
+  },
+  "SolNode80": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Phoebe",
+    "missionTag": "Phoebe",
+    "missionType": "MT_CAPTURE"
+  },
+  "SolNode81": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Palus",
+    "missionTag": "Palus",
+    "missionType": "MT_SURVIVAL"
+  },
+  "SolNode82": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Calypso",
+    "missionTag": "Calypso",
+    "missionType": "MT_CAPTURE"
+  },
+  "SolNode83": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Cressida",
+    "missionTag": "Cressida",
+    "missionType": "MT_MOBILE_DEFENSE"
+  },
+  "SolNode84": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Nereid",
+    "missionTag": "Nereid",
+    "missionType": "MT_RESCUE"
+  },
+  "SolNode85": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Gaia",
+    "missionTag": "Gaia",
+    "missionType": "MT_TERRITORY"
+  },
+  "SolNode86": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Aegaeon",
+    "missionTag": "Aegaeon",
+    "missionType": "MT_INTEL"
+  },
+  "SolNode87": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Ganymede",
+    "missionTag": "Ganymede",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode88": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Adrastea",
+    "missionTag": "Adrastea",
+    "missionType": "MT_INTEL"
+  },
+  "SolNode89": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Mariana",
+    "missionTag": "Mariana",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode9": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Rosalind",
+    "missionTag": "Rosalind",
+    "missionType": "MT_INTEL"
+  },
+  "SolNode90": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Miranda",
+    "missionTag": "Miranda",
+    "missionType": "MT_DEFENSE"
+  },
+  "SolNode901": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/MercuryArchwingNode1",
+    "missionTag": "SolNode901",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode902": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/VenusArchwingNode1",
+    "missionTag": "SolNode902",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode903": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/EarthArchwingNode1",
+    "missionTag": "SolNode903",
+    "missionType": "MT_MOBILE_DEFENSE"
+  },
+  "SolNode904": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/MarsArchwingNode1",
+    "missionTag": "SolNode904",
+    "missionType": "MT_MOBILE_DEFENSE"
+  },
+  "SolNode905": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/JupiterArchwingNode1",
+    "missionTag": "SolNode905",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode906": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/SaturnArchwingNode1",
+    "missionTag": "SolNode906",
+    "missionType": "MT_EXTERMINATION"
+  },
+  "SolNode907": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/UranusArchwingNode1",
+    "missionTag": "SolNode907",
+    "missionType": "MT_TERRITORY"
+  },
+  "SolNode908": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/NeptuneArchwingNode1",
+    "missionTag": "SolNode908",
+    "missionType": "MT_DEFENSE"
+  },
+  "SolNode91": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Iapetus",
+    "missionTag": "Iapetus",
+    "missionType": "MT_TERRITORY"
+  },
+  "SolNode92": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Charon",
+    "missionTag": "Charon",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode93": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Keeler",
+    "missionTag": "Keeler",
+    "missionType": "MT_MOBILE_DEFENSE"
+  },
+  "SolNode94": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Apollodorus",
+    "missionTag": "Apollodorus",
+    "missionType": "MT_SURVIVAL"
+  },
+  "SolNode95": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Thalassa",
+    "missionTag": "Thalassa",
+    "missionType": "MT_RESCUE"
+  },
+  "SolNode96": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Titan",
+    "missionTag": "Titan",
+    "missionType": "MT_INTEL"
+  },
+  "SolNode97": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/Amalthea",
+    "missionTag": "Amalthea",
+    "missionType": "MT_SABOTAGE"
+  },
+  "SolNode98": {
+    "faction": "FC_GRINEER",
+    "locTag": "/Lotus/Language/Locations/Desdemona",
+    "missionTag": "Desdemona",
+    "missionType": "MT_CAPTURE"
+  },
+  "SolNode99": {
+    "faction": "FC_CORPUS",
+    "locTag": "/Lotus/Language/Locations/War",
+    "missionTag": "War",
+    "missionType": "MT_ASSASSINATION"
+  },
+  "TradeHUB1": {
+    "faction": "FC_OROKIN",
+    "locTag": "/Lotus/Language/Locations/RelayStationTrade",
+    "missionTag": "TradeHUB1",
+    "missionType": "MT_PVP"
+  },
+  "VenusHUB": {
+    "faction": "FC_OROKIN",
+    "locTag": "/Lotus/Language/Locations/RelayStationVenus",
+    "missionTag": "VenusHUB",
+    "missionType": "MT_PVP"
+  }
+}
